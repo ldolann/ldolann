@@ -25,3 +25,29 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dolann"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dolann" /></a></p><br><br>
+
+<h3 align="left">
+  Mes stats :
+</h3>
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ClueXIII&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ClueXIII&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ClueXIII&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p> 
+
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=ClueXIII&label=Profile%20views&color=00C301&style=flat" alt="ClueXIII" />
+</p>
+
+<br>
+
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ts2k701if0l3nur6prtzq85s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
