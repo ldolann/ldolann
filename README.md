@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm dolann</h1>
-<h3 align="center">I'm passionate about web, app and game development</h3>
+<h3 align="center">I'm passionate about web, app, business and game development</h3>
 
-- 🔭 I’m currently working on [AvRange App](https://avrange-app.netlify.app)
+- 🔭 I’m currently working on [NightStudio](https://discord.com/invite/aWQPCuhbjg)
 
-- 🌱 I’m currently learning **Blender and reactnative**
+- 🌱 I’m currently learning **Shopify and Nocode**
 
-- 🤝 I’m looking for help with **AvRange Trading Bot**
+- 🤝 I’m looking for help with **Cold calling with prospects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dolann.netlify.app](https://portfolio-dolann.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio-Dolann](https://portfolio-dolann.netlify.app)
 
 - 📫 How to reach me **l.dolann.freelance@gmail.com**
 
